@@ -1,0 +1,1 @@
+C:\Users\Yeloo\learning_rust\restaurant\target\debug\librestaurant.rlib: C:\Users\Yeloo\learning_rust\restaurant\src\front_of_house\hosting.rs C:\Users\Yeloo\learning_rust\restaurant\src\front_of_house.rs C:\Users\Yeloo\learning_rust\restaurant\src\lib.rs
