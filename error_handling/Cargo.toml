@@ -1,0 +1,12 @@
+[package]
+name = "error_handling"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+#comando para fazer o erro de panic abortar o programa invés de desimpilhar
+[profile.release]
+panic = 'abort'
